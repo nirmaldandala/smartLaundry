@@ -1,0 +1,26 @@
+/* Empty. Add your own CSS if you like */
+
+.col {
+    width: 85px;
+    height: 175px;
+    margin: 1px; 
+}
+
+.col img{
+    width: 100%;
+    height: 100%;
+}
+
+.title {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px !important;
+}
+
+.taken {
+    background: red;
+}
+
+.free {
+    background: green;
+}
